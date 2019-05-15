@@ -1,0 +1,132 @@
+StockID,Stockcode,IndustryID,Industry,Price,RID,Risk Name
+1020,CAPL,15,Oil and Gas ,16.44,11,Low
+1030,PSEC,4,Financial ,6.81,11,Low
+1050,STFC,4,Financial ,33.48,11,Low
+1053,MCY,4,Financial,58.93,11,Low
+1070,CSIQ,5,Energy,16,11,Low
+1195,ORINY,9,Medical ,18.24,11,Low
+1200,EGAN,10,Internet,7.76,11,Low
+1230,LXFR,40,Manufacturing ,24.92,11,Low
+1253,BVX,9,Medical ,5.97,11,Low
+1260,ATNI,10,Internet,86.12,11,Low
+1265,GWPH,9,Medical ,132.3,11,Low
+1292,INTT,1,Electronics ,6.48,11,Low
+1340,AMED,9,Medical ,125.91,11,Low
+1410,GDOT,4,Financial ,84.81,11,Low
+4033,SSYS,12,Computer ,22.4,11,Low
+4055,NXEO,34,Chemical - Plastic,10.08,11,Low
+4080,VCEL,9,Medical,16.99,11,Low
+4100,BEAT,9,Medical ,63.83,11,Low
+4151,FRSH,8,Retail ,5.32,11,Low
+4160,SBPH,9,Medical ,11.73,11,Low
+4171,HABT,8,Retail ,14.3,11,Low
+4192,DXPE,40,Manufacturing ,39.44,11,Low
+4193,HES,15,Oil and Gas ,57.68,11,Low
+4242,TRIP,10,Internet,63.67,11,Low
+4260,CSGS,12,Computer,36.72,11,Low
+4291,DIOD,1,Electronics,34.12,11,Low
+4311,MITK,12,Computer,9.84,11,Low
+4321,SPSC,30,Business,89.94,11,Low
+4350,YPF,15,Oil and Gas ,15.92,11,Low
+4360,MPX,7,Leisure and Recreation Products,22.65,11,Low
+4370,CACI,12,Computer ,180.43,11,Low
+4381,BANR,4,Financial ,60.65,11,Low
+4400,EGN,15,Oil and Gas ,73.5,11,Low
+4440,ARR,4,Financial ,22.03,11,Low
+4531,III,14,Consulting Services,4.27,11,Low
+4541,SAFRY,2,Automotive,31.07,11,Low
+4561,HCC,5,Energy,25.99,11,Low
+4570,GLPI,4,Financial,33.46,11,Low
+4590,AYX,10,Internet ,60.34,11,Low
+4610,FOXF,2,Automotive ,75.17,11,Low
+4670,SAVE,6,Transportation ,52.44,11,Low
+4671,BEL,18,Hotels and Motels,18.91,11,Low
+4680,ESALY,9,Medical ,89.27,11,Low
+4691,MOS,20,Fertilizers,36.67,11,Low
+1010,GTE,15,Oil and Gas,2.78,22,Medium
+1040,CCMP,1,Electronics ,102.18,22,Medium
+1171,KEM,1,Electronics,19.6,22,Medium
+1215,UDIRF,10,Internet ,43.06,22,Medium
+1256,ENV,4,Financial ,53.51,22,Medium
+1291,MAG,11,Mining ,7.47,22,Medium
+1420,HMSY,9,Medical,37.19,22,Medium
+1430,ENVA,4,Financial ,22.99,22,Medium
+1450,GOOS,8,Retail,70.05,22,Medium
+1460,CSLT,10,Internet ,2.78,22,Medium
+1990,QDEL,9,Medical,63.73,22,Medium
+2010,AEZS,9,Medical ,2.9,22,Medium
+2040,QCOM,10,Internet,55.88,22,Medium
+2141,AMOT,50,Instruments - Control,46.48,22,Medium
+2190,FLIC,4,Financial,21,22,Medium
+2360,OBLN,9,Medical ,1.99,22,Medium
+4022,OLP,4,Financial,26.27,22,Medium
+4030,SYMC,12,Computer ,23.09,22,Medium
+4053,ARCB,2,Automotive,40.14,22,Medium
+4062,HZO,8,Retail,22.87,22,Medium
+4070,UNT,15,Oil and Gas,22.2,22,Medium
+4081,SKIS,18,Hotels and Motels,4.95,22,Medium
+4084,GHDX,9,Medical ,76.2,22,Medium
+4123,NATI,1,Electronics ,49.95,22,Medium
+4130,AFLYY,6,Transportation ,11.02,22,Medium
+4201,PEN,9,Medical ,136.57,22,Medium
+4210,ABR,4,Financial,12.1,22,Medium
+4240,INSG,10,Internet,3.75,22,Medium
+4261,HBB,16,Household Appliances,23.28,22,Medium
+4270,NPO,40,Manufacturing,69.77,22,Medium
+4272,TREE,4,Financial ,236.6,22,Medium
+4322,SHI,3,Chemical ,46.81,22,Medium
+4323,DM,5,Energy,18.17,22,Medium
+4331,UFS,23,Paper and Related Products,45.78,22,Medium
+4345,ACMR,1,Electronics ,11.23,22,Medium
+4361,NRIM,4,Financial ,37.01,22,Medium
+4382,PSXP,15,Oil and Gas ,47.7,22,Medium
+4390,FOSL,8,Retail ,18.94,22,Medium
+4410,CI,4,Financial ,213.72,22,Medium
+4460,VNDA,9,Medical ,23.88,22,Medium
+4592,AZRE,5,Energy,10.8,22,Medium
+4620,MTLS,10,Internet,14.05,22,Medium
+4640,DQ,13,Chemical - Specialty,24.25,22,Medium
+1080,ATTU,10,Internet ,22.85,33,High
+1103,VRNA,9,Medical ,11.07,33,High
+1120,ASPS,4,Financial,22.27,33,High
+1140,MYGN,9,Medical,31.41,33,High
+1162,ACIW,12,Computer ,29.52,33,High
+1210,LUNA,17,Technology Services,3.48,33,High
+1285,MRBK,4,Financial ,17,33,High
+1293,HUD,22,Leisure and Recreation Services,19.71,33,High
+1294,BSTC,9,Medical,58.16,33,High
+1440,GLDD,60,Building Products,7.15,33,High
+1441,OMCL,9,Medical ,72.82,33,High
+1470,ALXN,9,Medical ,118.62,33,High
+1991,TDY,2,Automotive,227.92,33,High
+2450,EOG,15,Oil and Gas ,105.2,33,High
+4031,BRK.B,4,Financial,218.41,33,High
+4052,LTS,4,Financial ,2.68,33,High
+4061,AUO,1,Electronics ,4.14,33,High
+4082,STAA,9,Medical ,40.43,33,High
+4113,RNGR,15,Oil and Gas,7.65,33,High
+4121,GNL,4,Financial,21.52,33,High
+4140,XAN,4,Financial ,10.85,33,High
+4173,KT,10,Internet,14.78,33,High
+4178,GNRC,1,Electronics ,56.8,33,High
+4200,ECOL,21,Waste Removal Services,70.67,33,High
+4230,MGRC,4,Financial ,53,33,High
+4231,EPD,15,Oil and Gas ,26.91,33,High
+4241,PFS,4,Financial ,24.94,33,High
+4250,PRTS,2,Automotive,1.12,33,High
+4273,MSEX,70,Utility - Water Supply,48.79,33,High
+4280,SCVL,8,Retail ,39.87,33,High
+4283,ABG,2,Automotive ,69.03,33,High
+4285,GILD,9,Medical ,69.2,33,High
+4290,DXCM,9,Medical ,138.15,33,High
+4391,BHC,9,Medical ,25.33,33,High
+4450,FLY,6,Transportation ,12.72,33,High
+4530,CSWC,4,Financial ,19.17,33,High
+4543,SMFG,4,Financial ,7.59,33,High
+4560,AMAL,4,Financial,19.93,33,
+4580,ANET,33,Communication ,239.37,33,
+4600,LULU,19,Textile ,134.53,33,
+4621,CIGI,24,Real Estate ,62.35,33,
+4630,HLF,8,Retail ,55.02,33,
+4650,ETFC,4,Financial ,52.19,33,
+4661,BSM,5,Energy,17.02,33,
