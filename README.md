@@ -18,8 +18,30 @@ Financial data was collected from Yahoo finance. The companies listed in the S&P
 
 
 ## Getting Started
-![Dashboard setup of the app](relative/path/to/img.jpg?raw=true "Dashboard")
 
+![Dashboard setup of the app](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/Dashboard_setup.png)
+
+This shows how the launch page of the app.
+
+![Create a new user profile](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/Create_tab.png)
+
+Fill in the fields to create a user profile. User id and name are required fields.
+
+![Display of the stocks avaialble](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/database.png)
+
+These are the selected stocks that were downloaded from Yahoo finance and written to the database
+
+![Barpllot of all the stocks grouped by industry](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/BarplotofP-Eratio.png)
+
+Barplot of P/E ratios of different industries. This can be used as an indicator for stock selection
+
+![Cluster map of the stocks](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/StocksK-meansCluster.png)
+
+Cluster map of the stocks that shows similar stocks grouped together
+
+![Updated user table](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/Updated_consumer_table.png)
+
+The updated user table after user makes some changes to the user profile
 
 ### Dependencies
 
@@ -47,8 +69,6 @@ R libraries:
 
 ### Executing program
 
-* ![Alt text](relative/path/to/img.jpg?raw=true "How to launch the app")
+* ![How to lauch the app from R-studio](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/Launch_app.png)
 Click on the 'Run App' button on R studio to run the program
-```
-code blocks for commands
-```
+
