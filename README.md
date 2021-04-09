@@ -70,5 +70,6 @@ R libraries:
 ### Executing program
 
 * ![How to lauch the app from R-studio](https://github.com/KumarSDas/Portfolio_analyzer-Shiny/blob/master/images/Launch_app.png)
+
 Click on the 'Run App' button on R studio to run the program
 
